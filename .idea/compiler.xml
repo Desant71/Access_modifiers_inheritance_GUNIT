@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Access_modifiers_inheritance" />
+        <module name="Access_modifiers_inheritance_GUNIT" />
       </profile>
     </annotationProcessing>
   </component>

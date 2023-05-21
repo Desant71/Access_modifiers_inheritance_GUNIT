@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Access_modifiers_inheritance.iml" filepath="$PROJECT_DIR$/Access_modifiers_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Access_modifiers_inheritance_GUNIT.iml" filepath="$PROJECT_DIR$/Access_modifiers_inheritance_GUNIT.iml" />
     </modules>
   </component>
 </project>
